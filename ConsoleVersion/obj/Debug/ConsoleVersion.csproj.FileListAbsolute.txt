@@ -1,0 +1,13 @@
+C:\Users\Сергей\Desktop\Программирование\Attestation3_21\ConsoleVersion\bin\Debug\Раздел 10 номер 6 console.exe.config
+C:\Users\Сергей\Desktop\Программирование\Attestation3_21\ConsoleVersion\bin\Debug\Раздел 10 номер 6 console.exe
+C:\Users\Сергей\Desktop\Программирование\Attestation3_21\ConsoleVersion\bin\Debug\Раздел 10 номер 6 console.pdb
+C:\Users\Сергей\Desktop\Программирование\Attestation3_21\ConsoleVersion\bin\Debug\ConsoleUtils.dll
+C:\Users\Сергей\Desktop\Программирование\Attestation3_21\ConsoleVersion\bin\Debug\FormUtils.dll
+C:\Users\Сергей\Desktop\Программирование\Attestation3_21\ConsoleVersion\bin\Debug\ProgramUtils.dll
+C:\Users\Сергей\Desktop\Программирование\Attestation3_21\ConsoleVersion\bin\Debug\ConsoleUtils.pdb
+C:\Users\Сергей\Desktop\Программирование\Attestation3_21\ConsoleVersion\bin\Debug\FormUtils.pdb
+C:\Users\Сергей\Desktop\Программирование\Attestation3_21\ConsoleVersion\bin\Debug\ProgramUtils.pdb
+C:\Users\Сергей\Desktop\Программирование\Attestation3_21\ConsoleVersion\obj\Debug\ConsoleVersion.csprojResolveAssemblyReference.cache
+C:\Users\Сергей\Desktop\Программирование\Attestation3_21\ConsoleVersion\obj\Debug\ConsoleVersion.csproj.CoreCompileInputs.cache
+C:\Users\Сергей\Desktop\Программирование\Attestation3_21\ConsoleVersion\obj\Debug\Раздел 10 номер 6 console.exe
+C:\Users\Сергей\Desktop\Программирование\Attestation3_21\ConsoleVersion\obj\Debug\Раздел 10 номер 6 console.pdb

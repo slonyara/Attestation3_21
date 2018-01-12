@@ -1,0 +1,16 @@
+C:\Users\Сергей\Desktop\Программирование\RubicCube\FormUtils\bin\Debug\FormUtils.dll
+C:\Users\Сергей\Desktop\Программирование\RubicCube\FormUtils\bin\Debug\FormUtils.pdb
+C:\Users\Сергей\Desktop\Программирование\RubicCube\FormUtils\bin\Debug\ProgramUtils.dll
+C:\Users\Сергей\Desktop\Программирование\RubicCube\FormUtils\bin\Debug\ProgramUtils.pdb
+C:\Users\Сергей\Desktop\Программирование\RubicCube\FormUtils\obj\Debug\FormUtils.csprojResolveAssemblyReference.cache
+C:\Users\Сергей\Desktop\Программирование\RubicCube\FormUtils\obj\Debug\FormUtils.csproj.CoreCompileInputs.cache
+C:\Users\Сергей\Desktop\Программирование\RubicCube\FormUtils\obj\Debug\FormUtils.dll
+C:\Users\Сергей\Desktop\Программирование\RubicCube\FormUtils\obj\Debug\FormUtils.pdb
+C:\Users\Сергей\Desktop\Программирование\Attestation3_21\FormUtils\bin\Debug\FormUtils.dll
+C:\Users\Сергей\Desktop\Программирование\Attestation3_21\FormUtils\bin\Debug\FormUtils.pdb
+C:\Users\Сергей\Desktop\Программирование\Attestation3_21\FormUtils\bin\Debug\ProgramUtils.dll
+C:\Users\Сергей\Desktop\Программирование\Attestation3_21\FormUtils\bin\Debug\ProgramUtils.pdb
+C:\Users\Сергей\Desktop\Программирование\Attestation3_21\FormUtils\obj\Debug\FormUtils.csprojResolveAssemblyReference.cache
+C:\Users\Сергей\Desktop\Программирование\Attestation3_21\FormUtils\obj\Debug\FormUtils.csproj.CoreCompileInputs.cache
+C:\Users\Сергей\Desktop\Программирование\Attestation3_21\FormUtils\obj\Debug\FormUtils.dll
+C:\Users\Сергей\Desktop\Программирование\Attestation3_21\FormUtils\obj\Debug\FormUtils.pdb

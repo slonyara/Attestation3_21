@@ -1,0 +1,12 @@
+C:\Users\Сергей\Desktop\Программирование\RubicCube\ProgramUtils\obj\Debug\ProgramUtils.csprojResolveAssemblyReference.cache
+C:\Users\Сергей\Desktop\Программирование\RubicCube\ProgramUtils\obj\Debug\ProgramUtils.csproj.CoreCompileInputs.cache
+C:\Users\Сергей\Desktop\Программирование\RubicCube\ProgramUtils\bin\Debug\ProgramUtils.dll
+C:\Users\Сергей\Desktop\Программирование\RubicCube\ProgramUtils\bin\Debug\ProgramUtils.pdb
+C:\Users\Сергей\Desktop\Программирование\RubicCube\ProgramUtils\obj\Debug\ProgramUtils.dll
+C:\Users\Сергей\Desktop\Программирование\RubicCube\ProgramUtils\obj\Debug\ProgramUtils.pdb
+C:\Users\Сергей\Desktop\Программирование\Attestation3_21\ProgramUtils\bin\Debug\ProgramUtils.dll
+C:\Users\Сергей\Desktop\Программирование\Attestation3_21\ProgramUtils\bin\Debug\ProgramUtils.pdb
+C:\Users\Сергей\Desktop\Программирование\Attestation3_21\ProgramUtils\obj\Debug\ProgramUtils.csprojResolveAssemblyReference.cache
+C:\Users\Сергей\Desktop\Программирование\Attestation3_21\ProgramUtils\obj\Debug\ProgramUtils.csproj.CoreCompileInputs.cache
+C:\Users\Сергей\Desktop\Программирование\Attestation3_21\ProgramUtils\obj\Debug\ProgramUtils.dll
+C:\Users\Сергей\Desktop\Программирование\Attestation3_21\ProgramUtils\obj\Debug\ProgramUtils.pdb
